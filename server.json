@@ -1,28 +1,40 @@
 {
   "products": [
     {
-      "id": "123",
-      "title": "Nome do produto 01",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 50
+      "id": "1",
+      "title": "Android Tv Led 43'' Tcl 43s6500 Bluetooth, Controle Remoto Com Comando De Voz E Google Assistant",
+      "image_url": "https://images-submarino.b2w.io/produtos/01/00/img/134256/0/134256010_1SZ.jpg",
+      "price": 1199
     },
     {
-      "id": "1234",
-      "title": "Nome do produto 02",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 60
+      "id": "2",
+      "title": "Smart TV LED 55'' LG 55SM8600 Ultra HD 4K Nanocell com Conversor Digital 4 HDMI 3 USB Wi-Fi 240Hz - Preta Controle Smart Magic",
+      "image_url": "https://images-submarino.b2w.io/produtos/01/00/img/134449/8/134449891_1SZ.jpg",
+      "price": 3299
     },
     {
-      "id": "12345",
-      "title": "Nome do produto 03",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 70
+      "id": "3",
+      "title": "Smartv TV LED 43'' Semp S3900 Full HD com Wi-Fi 2 HDMI 1 USB Conversor Digital Integrado",
+      "image_url": "https://images-submarino.b2w.io/produtos/01/00/images/134494/1/134494114_1SZ.jpg",
+      "price": 1579.99
     },
     {
-      "id": "123456",
-      "title": "Nome do produto 04",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 80
+      "id": "4",
+      "title": "Smart TV LED 43'' Philco PTV43E60SN Full HD com Conversor Digital 3 HDMI 2 USB Wi-Fi MidiaCast",
+      "image_url": "https://images-submarino.b2w.io/produtos/01/00/item/133869/3/133869367SZ.jpg",
+      "price": 1499.99
+    },
+    {
+      "id": "5",
+      "title": "Smart TV LG 43'' 43UN7300 Ultra HD 4K WiFi Bluetooth HDR Inteligência Artificial ThinQ AI Google Assistente Alexa IOT",
+      "image_url": "https://images-submarino.b2w.io/produtos/01/00/img/1677340/2/1677340200_1GG.jpg",
+      "price": 2199.99
+    },
+    {
+      "id": "6",
+      "title": "Smart Tv 43'' Led Aoc 43s5295/78g Com Wifi, 2 Usb, 3 Hdmi, Controle Com Botão Netflix E 60hz",
+      "image_url": "https://images-submarino.b2w.io/produtos/01/00/img/90178/3/90178395_1SZ.jpg",
+      "price": 1599.99
     }
   ]
 }
