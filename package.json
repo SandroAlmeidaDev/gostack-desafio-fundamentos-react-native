@@ -18,6 +18,7 @@
     "expo-constants": "^9.0.0",
     "intl": "^1.2.5",
     "json-server": "^0.16.1",
+    "logkitty": "0.7.1",
     "react": "16.11.0",
     "react-native": "0.62.2",
     "react-native-bootsplash": "^2.2.4",
